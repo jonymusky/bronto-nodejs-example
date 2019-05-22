@@ -1,0 +1,19 @@
+{
+  "name": "bronto-nodejs-example",
+  "version": "0.0.1",
+  "description": "An example to use the Bronto SOAP API with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bronto",
+    "soap",
+    "nodejs"
+  ],
+  "author": "Jonathan Muszkat - muskys@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "soap": "^0.27.1"
+  }
+}
